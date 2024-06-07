@@ -1,3 +1,7 @@
+# Animal trading cards project
+This project showcases html and css skills.
+
+
 echo "# Animal-Trading-Cards" >> README.md
 git init
 git add README.md
